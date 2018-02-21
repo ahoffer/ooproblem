@@ -1,17 +1,21 @@
-package draule;
+package solution;
 
-public class Amount {
+
+import challenge.Amount;
+import challenge.Unit;
+
+public class AmountImpl implements Amount {
 
     private Unit unit;
 
     private double value;
 
-    public Amount(double value, Unit unit) {
+    public AmountImpl(double value, Unit unit) {
         this.unit = unit;
         this.value = value;
     }
 
-    public Amount convertTo(Unit otherUnit) {
+    public AmountImpl convertTo(Unit otherUnit) {
         return ImperialRegistry.convert(this, otherUnit);
     }
 

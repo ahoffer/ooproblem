@@ -13,7 +13,7 @@ The consul's aide provides you with a description of the Yubian and Tupra weight
     - A stone is 14 imperial pounds
 */
 
-package draule;
+package challenge;
 
 public class Main {
 

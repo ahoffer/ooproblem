@@ -1,4 +1,4 @@
-package draule;
+package challenge;
 
 import java.util.HashMap;
 import java.util.Map;

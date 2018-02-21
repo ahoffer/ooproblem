@@ -34,7 +34,7 @@ The consul's aide provides you with a description of the Yubian and Tupra weight
  *
  */
 
-package draule;
+package challenge;
 
 public class Main {
 

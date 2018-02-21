@@ -1,10 +1,6 @@
-package draule.solution;
+package challenge;
 
-
-import draule.AmountInterface;
-import draule.Unit;
-
-public class Amount implements AmountInterface {
+public class Amount {
 
     private Unit unit;
 

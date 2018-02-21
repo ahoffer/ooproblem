@@ -1,4 +1,4 @@
-package draule;
+package challenge;
 
 public enum Quantity {
     WEIGHT, VOLUME

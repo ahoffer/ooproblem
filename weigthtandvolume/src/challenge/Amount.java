@@ -1,4 +1,4 @@
-package draule;
+package challenge;
 
 public class Amount {
 
