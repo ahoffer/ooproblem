@@ -5,7 +5,7 @@ The small nations of Yubia and Tupra exist in a fictional world. The nations bot
 border that traders and merchants cross freely. Trade between them is common. However, each nation
  measures things differently:
 - Yubians sell flour by weight, in okras.
-- Tupras buy flour by weight, in stones.
+- Tuprans buy flour by weight, in stones.
 
 Recently, both Yubia and Tupra were absorbed into the Draule Empire. The new Draule consul
 wants to facilitate trade by making it easier to convert between different weights and measures.

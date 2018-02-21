@@ -1,10 +1,10 @@
 ### Second Challenge
 
 #### Background
-The Yubria and Tupra also trade wheat. The Tupras grow wheat and sell it Yubians, who mill it into
+Yubria and Tupra also trade wheat. The Tuprans grow wheat and sell it Yubians, who mill it into
 flour. However, both nations measure the amount of wheat a little differently. 
 
-- Tupras sell wheat by the coomb. 
+- Tuprans sell wheat by the coomb. 
 - Yubians buy barrels of wheat. 
 
 Boths barrels and coombs are measures of _volume_, not weight.
