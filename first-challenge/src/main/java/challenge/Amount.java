@@ -1,10 +1,23 @@
 package challenge;
 
-public interface Amount {
+public class Amount {
 
-    Amount convertTo(Unit otherUnit);
+    public Amount(double value, Unit unit) {
+        //Replace with your code
+    }
 
-    Unit getUnit();
+    public Amount convertTo(Unit otherUnit) {
+        //Replace with your code
+        return null;
+    }
 
-    double getValue();
+    public Unit getUnit() {
+        //Replace with your code
+        return null;
+    }
+
+    public double getValue() {
+        //Replace with your code
+        return 0;
+    }
 }

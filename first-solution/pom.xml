@@ -29,10 +29,5 @@
             <version>1.3</version>
             <scope>test</scope>
         </dependency>
-        <dependency>
-            <groupId>com.connexta.challenge.draule</groupId>
-            <artifactId>first-challenge</artifactId>
-            <version>1.0-SNAPSHOT</version>
-        </dependency>
     </dependencies>
 </project>

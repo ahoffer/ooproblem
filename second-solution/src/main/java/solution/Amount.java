@@ -1,21 +1,17 @@
 package solution;
 
-
-import challenge.Amount;
-import challenge.Unit;
-
-public class AmountImpl implements Amount {
+public class Amount {
 
     private Unit unit;
 
     private double value;
 
-    public AmountImpl(double value, Unit unit) {
+    public Amount(double value, Unit unit) {
         this.unit = unit;
         this.value = value;
     }
 
-    public AmountImpl convertTo(Unit otherUnit) {
+    public Amount convertTo(Unit otherUnit) {
         return ImperialRegistry.convert(this, otherUnit);
     }
 
